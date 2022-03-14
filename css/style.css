@@ -40,3 +40,11 @@ footer {
   font-size: 14px;
   color: grey;
 }
+
+.images {
+  margin-bottom: 20px;
+}
+
+.images-details {
+  font-size: 12px;
+}
