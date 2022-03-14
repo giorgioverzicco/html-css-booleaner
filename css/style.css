@@ -4,6 +4,11 @@
   box-sizing: border-box;
 }
 
+main,
+footer {
+  margin: 0 10px;
+}
+
 .logo-container {
   width: 100%;
   height: 150px;
@@ -15,4 +20,18 @@
   width: 20%;
   margin-top: 50px;
   margin-left: 5px;
+}
+
+.article-written-by {
+  font-size: 18px;
+  color: grey;
+}
+
+.article-author {
+  color: rgb(32, 169, 229);
+}
+
+.article-date {
+  font-size: 14px;
+  color: grey;
 }
