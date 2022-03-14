@@ -52,3 +52,8 @@ footer {
 .main-point {
   margin-bottom: 30px;
 }
+
+.bullet-point {
+  padding-left: 15px;
+  margin-bottom: 30px;
+}
