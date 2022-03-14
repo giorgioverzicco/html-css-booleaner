@@ -23,7 +23,7 @@ footer {
   margin-left: 5px;
 }
 
-.title-container {
+.mb-20 {
   margin-bottom: 20px;
 }
 
@@ -41,25 +41,12 @@ footer {
   color: grey;
 }
 
-.images {
-  margin-bottom: 20px;
-}
-
 .images-details {
   font-size: 12px;
 }
 
-.main-point {
-  margin-bottom: 30px;
-}
-
 .bullet-point {
   padding-left: 15px;
-  margin-bottom: 30px;
-}
-
-.table-data {
-  margin-bottom: 20px;
 }
 
 .table-data table {
@@ -79,10 +66,6 @@ footer {
 
 .table-data .special {
   background-color: rgb(177, 229, 242);
-}
-
-footer {
-  margin-top: 40px;
 }
 
 footer > h3 {
