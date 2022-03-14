@@ -14,6 +14,7 @@ footer {
   height: 150px;
   background-image: url('../img/pattern.png');
   background-color: rgb(78, 160, 255);
+  margin-bottom: 20px;
 }
 
 .logo-container > .logo-img {
