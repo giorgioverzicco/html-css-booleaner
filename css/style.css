@@ -57,3 +57,26 @@ footer {
   padding-left: 15px;
   margin-bottom: 30px;
 }
+
+.table-data {
+  margin-bottom: 20px;
+}
+
+.table-data table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.table-data th {
+  background-color: rgb(32, 169, 229);
+  color: white;
+  text-align: left;
+}
+
+.table-data .long {
+  width: 60%;
+}
+
+.table-data .special {
+  background-color: rgb(177, 229, 242);
+}
